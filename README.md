@@ -1,9 +1,6 @@
 # Remote-Control-App-IOS-
 
-1. Creates a two-screen version of the mock remote control app in Programming
-Assignment #4. The first screen is similar to the app in Programming Assignment #4.
-The second screen is a mock remote control for a DVR. The screens should be similar
-to the ones below.
+1. Creates a two-screen version of the mock remote control app.
 
 2. The TV remote control portion functions similarly to a standard remote control.
 3. The DVR remote control mimics the usual functions of a simple DVR remote control.
